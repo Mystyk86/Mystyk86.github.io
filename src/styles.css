@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    color: #1a1f36;
+    box-sizing: border-box;
+    word-wrap: break-word;
+    font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Ubuntu, sans-serif;
+}
+
+body {
+    min-height: 100%;
+    /* background-color: #f848e0; */
+    background-image: url('./images/dance.gif');
+    background-size: cover;
+}
+
+.main {
+    position: absolute;
+    margin: 25px;
+}
+
+.image {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.image2 {
+    position: absolute;
+    top: 755px;
+    left: 605px;
+}
+
+.image3 {
+    position: absolute;
+    top: 5242px;
+    left: 605px;
+}
